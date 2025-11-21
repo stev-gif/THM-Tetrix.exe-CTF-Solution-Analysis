@@ -37,6 +37,7 @@ The flag appeared directly in the strings output — no reverse engineering need
 The flag was successfully extracted using the strings command.
 
 THM{I_CAN_READ_IT_ALL}
+
 📚 Lessons Learned
 
 Always try simple static analysis before advanced tools.
